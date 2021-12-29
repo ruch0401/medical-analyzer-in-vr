@@ -16,9 +16,9 @@ When in a hospital, there is a constant battle between life and death. And in su
 
 ## Features
 
-- ```Easily Accessible Data``` : Data regarding human body vitals is easily accessible.
-- ```Reducing Hardware``` : The hardware used for monitoring a patient’s vitals will be significantly reduced and will be replaced by our application.
-- ```Smart Object Detection```: With machine learning capabilities present in our application, the amateur doctors will have a better understanding of what is what in an operation theatre.
+- `Easily Accessible Data` : Data regarding human body vitals is easily accessible.
+- `Reducing Hardware` : The hardware used for monitoring a patient’s vitals will be significantly reduced and will be replaced by our application.
+- `Smart Object Detection`: With machine learning capabilities present in our application, the amateur doctors will have a better understanding of what is what in an operation theatre.
 
 ## Benefits
 
@@ -35,3 +35,4 @@ You can find specific details in the below URLs
 - [Project Presentation](presentation.pdf)
 - [Project Evaluation Format](evaluation-sheet.pdf)
 - [Project Handout](handout.pdf)
+- [Working Video](working-video.mp4)
